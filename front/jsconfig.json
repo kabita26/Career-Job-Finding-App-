@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "checkJs": false,          // turn on later if you want JS type‑checking
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    }
+  },
+  "include": ["src"]
+}
